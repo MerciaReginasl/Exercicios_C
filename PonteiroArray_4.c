@@ -1,5 +1,6 @@
 //QUESTÃO 4 
 //ALUNA: MÉRCIA REGINA DA SILVA
+//PARTE 2
 
 
 #include<stdio.h>
